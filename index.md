@@ -34,5 +34,3 @@ El otro modo es más representativo de la complejidad de la información que con
 # Posts
 
 This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
-
-![](images/diagram.png "https://github.com/fastai/fastpages")
